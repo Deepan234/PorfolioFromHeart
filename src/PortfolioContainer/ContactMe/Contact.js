@@ -1,6 +1,6 @@
 import React from 'react';
 import './Contact.css';
-import contactImg from "./img/Deepan.png"
+import contactImg from "./img/Deepan.PNG"
 function Contact() {
     return (
         <div className="contact component__space" id="Contact">
